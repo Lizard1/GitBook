@@ -3,3 +3,6 @@
 /idea
 *.xml
 /Scratches and Consoles
+*.iml
+/input.txt
+/input
